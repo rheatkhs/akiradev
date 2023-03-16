@@ -19,7 +19,7 @@ body.dark-theme {
 }
 
 header {
-    background-image: url(../img/background.jpg);
+    background-image: url(../img/bg.jpg);
     box-shadow: 0 0 20px rgba(0, 0, 0, .5), inset 0 -8px rgba(0, 0, 0, .3);
     min-height: 100vh
 }
